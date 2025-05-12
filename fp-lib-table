@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BP5293)(type KiCad)(uri ${KIPRJMOD}/plugin/BP5293_50/KiCAD/footprints.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/plugin/TLP152_TPL_E/KiCAD/footprints.pretty)(options "")(descr ""))
+)

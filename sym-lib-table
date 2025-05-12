@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 2025-05-04_01-35-05)(type Legacy)(uri ${KIPRJMOD}/plugin/BP5293_50/KiCAD/2025-05-04_01-35-05.lib)(options "")(descr ""))
+  (lib (name 2025-05-04_01-32-26)(type Legacy)(uri ${KIPRJMOD}/plugin/ATTINY202_SSNR/KiCAD/2025-05-04_01-32-26.lib)(options "")(descr ""))
+  (lib (name tlp152)(type Legacy)(uri ${KIPRJMOD}/plugin/TLP152_TPL_E/KiCAD/tlp152.lib)(options "")(descr ""))
+)
